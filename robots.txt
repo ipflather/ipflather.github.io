@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ipflather.github.io/ipflather.ipflather
+Sitemap: https://ipflather.github.io/app/ipflather.ipflather
+Sitemap: https://ipflather.github.io/assets/ipflather.ipflather
+Sitemap: https://ipflather.github.io/css/ipflather.ipflather
+Sitemap: https://ipflather.github.io/includes/ipflather.ipflather
+Sitemap: https://ipflather.github.io/item/ipflather.ipflather
+Sitemap: https://ipflather.github.io/src/ipflather.ipflather
